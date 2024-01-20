@@ -2,7 +2,7 @@
 
 This CA is based on the method of eating in chess with a few twists.
 
-In this CA, soldiers (turtles) in different camps from a faction (based on their color) will roam around the map and attack enemies. Similar to how attacking in chess works, when a soldier lands on a patch, they will deal damage to a random hostile soldier on the same patch if there is one.
+In this CA, soldiers (turtles) in different camps (starting patch from where turtles sprout from) from a faction (based on their color) will roam around the map and attack enemies. Similar to how attacking in chess works, when a soldier lands on a patch, they will deal damage to a random hostile soldier on the same patch if there is one.
 
 The battle ends when only one faction is left on the battlefield.
 
